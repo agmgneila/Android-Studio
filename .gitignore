@@ -1,0 +1,10 @@
+.idea/
+.gradle/
+local.properties
+**/build/
+**/.dart_tool/
+**/.flutter-plugins*
+**/.packages
+**/coverage/
+**/google-services.json
+

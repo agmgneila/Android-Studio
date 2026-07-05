@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EcoMarket</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Crear cuenta</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="login_error">Correo o contraseña incorrectos</string>
+    <string name="form_error">Revisa el nombre, correo y contraseña</string>
+    <string name="register_success">Cuenta creada correctamente</string>
+    <string name="duplicated_user">Ya existe una cuenta con ese correo</string>
+    <string name="search_hint">Buscar por nombre o categoría</string>
+    <string name="cart">Carrito</string>
+    <string name="detail">Detalle</string>
+    <string name="add">Añadir</string>
+    <string name="added_to_cart">Producto añadido al carrito</string>
+    <string name="offline_catalog">Sin conexión: mostrando catálogo local</string>
+    <string name="price_format">%1$.2f €</string>
+    <string name="rating_format">★ %1$.1f</string>
+    <string name="total_format">Total: %1$.2f €</string>
+    <string name="checkout">Completar compra</string>
+    <string name="checkout_success">Compra completada por %1$.2f €</string>
+    <string name="empty_cart">El carrito está vacío</string>
+    <string name="product_image">Imagen del producto</string>
+    <string name="favorite">Favorito</string>
+</resources>
+
