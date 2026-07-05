@@ -13,6 +13,13 @@ contenidos de `DevelopSys/CodigosUTAD/2526/INSOD`.
   RecyclerView, formularios, intents, Volley, Gson, Glide, adaptación a
   orientación, carrito y una integración Firebase preparada.
 
+## Abrir las aplicaciones
+
+Después de activar `SVM Mode` o `AMD-V` en la BIOS, haz doble clic en
+`ABRIR_APLICACIONES.bat`. El lanzador enciende el Pixel virtual, compila si hace
+falta, instala las dos aplicaciones y abre EcoMarket. Ritmo queda disponible en
+el menú de aplicaciones del emulador.
+
 ## Relación con el temario
 
 | Tema | Aplicación práctica |
@@ -24,4 +31,3 @@ contenidos de `DevelopSys/CodigosUTAD/2526/INSOD`.
 | Fragments y navegación | Navigation Component con cinco destinos |
 | Firebase | Gateway de autenticación/base de datos configurable |
 | Flutter | Material 3, estado, composición, formularios y CustomPainter |
-

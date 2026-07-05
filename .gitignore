@@ -7,4 +7,5 @@ local.properties
 **/.packages
 **/coverage/
 **/google-services.json
-
+flutter/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+Aplicaciones listas/

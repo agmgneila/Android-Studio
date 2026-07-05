@@ -136,7 +136,7 @@ class _RitmoHomeState extends State<RitmoHome> {
                 Text('${_habits.where((h) => h.isComplete).length} hábitos completados'),
                 const SizedBox(height: 16),
                 DropdownButtonFormField<HabitCategory?>(
-                  value: _filter,
+                  initialValue: _filter,
                   decoration: const InputDecoration(
                     labelText: 'Filtrar categoría',
                     border: OutlineInputBorder(),
@@ -285,7 +285,7 @@ class _RitmoHomeState extends State<RitmoHome> {
                 ),
                 const SizedBox(height: 14),
                 DropdownButtonFormField(
-                  value: category,
+                  initialValue: category,
                   decoration: const InputDecoration(
                     labelText: 'Categoría',
                     border: OutlineInputBorder(),
